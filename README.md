@@ -10,7 +10,7 @@ Deployed and published On SmartAsp.net Web Hosting
 
 
 
-BACK-END links for admin panel(LIST OF COURSE, CEATE, UPDATE, DELETE, DETAIL PAGE)
+BACK-END links for admin panel(LIST OF COURSE, CREATE, UPDATE, DELETE, DETAIL PAGE)
 
 http://armedrecord-001-site1.anytempurl.com/Admin
 
