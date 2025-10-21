@@ -30,4 +30,4 @@ http://armedrecord-001-site1.anytempurl.com/
 
 http://armedrecord-001-site1.anytempurl.com/Home/CourseDetail?courseId=1
 
-i have not deploy the Api, but the file is ready but the backend code file is among the file on my GitHub
+i have not deploy the Api, but the backend code file is among the Archived file on my GitHub
