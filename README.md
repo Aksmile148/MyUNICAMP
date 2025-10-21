@@ -27,6 +27,7 @@ http://armedrecord-001-site1.anytempurl.com/Admin/UpdateCourse?courseId=1
 FRONT-END link: for end User  (LIST OF COURSE, DETAIL PAGE)
 
 http://armedrecord-001-site1.anytempurl.com/
+
 http://armedrecord-001-site1.anytempurl.com/Home/CourseDetail?courseId=1
 
 i have not deploy the Api, but the file is ready but the backend code file is among the file on my GitHub
